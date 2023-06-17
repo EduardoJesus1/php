@@ -2,6 +2,6 @@
 
 echo "Olá mundo456";
 
-echo "Tchau"
+echo "Tchau";
 
 ?>
